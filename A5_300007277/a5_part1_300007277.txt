@@ -1,0 +1,35 @@
+def largest_34(a):
+    a.sort(reverse= True)
+    return (sum(a[2:4]))
+    
+sort() method does around 140 000 operations and sum(a[2:4]) does 2 operations. Therefore this function performs around 140 002 operations 
+
+
+def largest_third(a):
+    a.sort(reverse= True)
+    return (sum(a[:((len(a)//3))]))
+
+sort() method does around 140 000 operations and sum(a[2:((len(a)//3))]) does 33 333 operations. Therefore this function performs around 173 333 operations 
+
+def third_at_least(a):
+    a.sort()
+    c = (len(a)//3)
+
+    for i in range (len(a)-c):
+        if a[i] == a[i+c]:
+            return a[i]
+    return None
+
+sort() method does around 140 000 operations, this function has 1 nested loop from 0 to 66 667. Therefore this function performs around 206 667 operations 
+
+def sum_tri(a,x):
+    sorted(set(a))
+    for i in range(len(a)):
+        for e in range(len(a)):
+            for t in range(len(a)):
+                if a[i]+a[e]+a[t] == x:
+                    return True
+    return False
+
+sorted() function does around 140 000 operations, set() does 10 000 operations, this function has 3 nested loops from 0 to 10 000. 10 000^3 is 1 000 000 000 000
+and so it does around 1 000 000 150 000 in the worst case scenario.

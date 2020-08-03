@@ -1,0 +1,13 @@
+'''
+Created on Oct 2, 2017
+
+@author: Khang Nguyen
+'''
+
+def print_vowle(p):
+    '''
+    (str) -> None
+    '''
+    for ch in phrase:
+        if "AEIOUaeiou".contains(ch):
+            print(ch)

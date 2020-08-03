@@ -1,0 +1,16 @@
+Task3 
+apple is 5
+
+its stuck inside the while loop until the number is not equal to 0 so the only way it leaves the loop is if number = 0
+it then prints the highest number which was 5
+
+Task4
+9999
+
+Task5
+True False
+dong!
+
+Task6
+the moment a number is not devisable by 2 the program sees it as a prime number 
+number 9

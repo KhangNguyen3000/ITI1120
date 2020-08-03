@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Khang Nguyen\OneDrive\ITI\LAB3\lab3-students"/>
+		<item value="C:\Users\Khang Nguyen\Downloads\A0_1111\A0_300007277"/>
+		<item value="C:\Users\Khang Nguyen\Downloads\A0_1111\A0_1111"/>
+		<item value="C:\Users\Khang Nguyen\OneDrive\ITI\LAB1"/>
+	</list>
+	<list key="installedFeatures">
+		<item value="AnyEditTools:2.6.1.201708150841"/>
+		<item value="org.eclipse.egit:4.8.0.201706111038-r"/>
+		<item value="org.eclipse.emf.common:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.emf.ecore:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.epp.mpc:1.6.0.v20170616-0843"/>
+		<item value="org.eclipse.help:2.2.100.v20170612-0950"/>
+		<item value="org.eclipse.jgit:4.8.0.201706111038-r"/>
+		<item value="org.eclipse.platform:4.7.0.v20170612-1255"/>
+		<item value="org.eclipse.rcp:4.7.0.v20170612-1255"/>
+		<item value="org.python.pydev.feature:5.9.2.201708150841"/>
+	</list>
+</section>

@@ -1,0 +1,8 @@
+'''
+Created on Sep 22, 2017
+
+@author: Khang Nguyen
+'''
+
+def repeater(s1,s2,n):
+    print("_"+((s1+s2)*n))

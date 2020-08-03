@@ -1,0 +1,13 @@
+import math
+
+'''
+Created on Sep 22, 2017
+
+@author: Khang Nguyen
+'''
+
+def repeater(s1,s2,n):
+    print("_"+((s1+s2)*n)+"_")
+    
+def root(a,b,c):
+    (-b+((b**2-(4ac)))**(1/2))/(2a)

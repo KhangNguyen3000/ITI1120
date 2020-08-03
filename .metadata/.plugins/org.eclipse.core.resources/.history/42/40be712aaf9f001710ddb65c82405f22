@@ -1,0 +1,17 @@
+import math
+
+'''
+Created on Sep 22, 2017
+
+@author: Khang Nguyen
+'''
+
+def repeater(s1,s2,n):
+    print("_"+((s1+s2)*n)+"_")
+    
+def root(a,b,c):
+    print("The quadratic equation with the coefficients a = "+str(a)+" b = "+str(b)+" and c = "+str(c)+"\n has the following solutions: \n"+str((-b+((b**2-(4*a*c)))**(1/2))/(2*a))+" and "+str((-b-((b**2-(4*a*c)))**(1/2))/(2*a)))
+    
+    
+def real_root(a,b,c):
+    print(str(0<= (b**2-(4*a*c)**(1/2))))

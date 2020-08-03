@@ -1,0 +1,28 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Khang Nguyen\OneDrive\ITI\.metadata\.plugins\org.eclipse.core.resources\.projects\Lessons\com.python.pydev.analysis\v2_indexcache
+Lesson5|1506967841368861000|C:\Users\Khang Nguyen\OneDrive\ITI\Lessons\Lesson5.py
+Lesson4|1505754569074760000|C:\Users\Khang Nguyen\OneDrive\ITI\Lessons\Lesson4.py
+Lesson3|1505925378545822000|C:\Users\Khang Nguyen\OneDrive\ITI\Lessons\Lesson3.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Lesson5
+1=Lesson3
+-- END DICTIONARY
+-- START TREE 1
+10
+c|1|c!10@
+c_v|1|c_vowle!18@
+f1|1|f1!10@
+f2|1|f2!10@
+pri|1|print_vowle!18@
+rec|1|rect!10@
+sad|1|sadd!10@
+stm|1|stm!10@
+t|1|t!10@
+v_v|1|v_vowle!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
